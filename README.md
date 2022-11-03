@@ -4,6 +4,9 @@
 #### Hi there 👋
 ##### Hi there 👋
 ---
-**bold**
-*italic*
-~~strikethrough~~
+**bold** <br>
+*italic* <br>
+~~strikethrough~~ <br>
+
+*1번
+*2번
