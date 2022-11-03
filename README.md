@@ -1,5 +1,7 @@
 [네이버가자](http://www.naver.com)
 
+``` int i = 3; ```
+
 
 # Hi there 👋
 ## Hi there 👋
