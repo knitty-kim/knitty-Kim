@@ -47,7 +47,7 @@
 미국 대학 및 산업센터 내 실무 사용을 목적으로 만들었습니다.</br>
 웹 전반을 담당하여 개발하였습니다.</br></br>
 사용 기술 : Java, Spring Boot, Spring Data JPA, MySQL, AWS EC2 및 RDS, Thymeleaf, BootStrap</br>
-인원 : 2명(풀스택, 하드웨어)</br>
+인원 : 2명(웹 전반, 하드웨어)</br>
 개발기간 : 12주(2024.05 ~ 진행중)</br>
 </br>
 #### 매출 통계를 위한 관리자 및 쇼핑몰 웹 애플리케이션
